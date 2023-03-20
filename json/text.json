@@ -1,0 +1,20 @@
+{
+    "en": {
+        "text_depositCalculator": "Depositor",
+        "text_conditions": "Conditions",
+        "text_currency": "Currency",
+        "text_rate": "Rate",
+        "text_term": "Term",
+        "text_month": "month",
+        "text_sum": "Sum",
+        "text_capitalization": "Capitalization",
+        "text_no": "no",
+        "text_yes": "yes",
+        "text_tax": "Tax",
+        "text_results": "Results",
+        "text_profitPerMonth": "Profit per month",
+        "text_profitForTheWholePeriod": "Profit for the whole period",
+        "text_total": "Total",
+        "text_reportForEachMonth": "Report for each month"
+    }
+}
